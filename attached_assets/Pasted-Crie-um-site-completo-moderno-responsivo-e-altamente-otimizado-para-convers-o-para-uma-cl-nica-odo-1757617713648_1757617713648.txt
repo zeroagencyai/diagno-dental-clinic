@@ -1,0 +1,73 @@
+Crie um site completo, moderno, responsivo e altamente otimizado para conversão para uma clínica odontológica de diagnóstico por imagem. O site deve transmitir seriedade, confiança e segurança e usar azul escuro como cor principal na paleta (com tons sóbrios complementares). Layout mobile-first, simples e institucional.
+
+Serviços oferecidos:
+	•	Cardiografia odontológica
+	•	Tomografia
+	•	Radiografia
+	•	Escaneamento 3D
+	•	Fotografias intraorais
+
+Público-alvo:
+	1.	Dentistas — área técnica dedicada com especificações de equipamentos, protocolos, instruções de encaminhamento, downloads de laudos e contato direto (tom de voz: profissional, técnico e objetivo).
+	2.	Pacientes finais — linguagem simples, acolhedora e direta, sem jargões (tom de voz: humano, claro, focado em confiança, agilidade e facilidade).
+
+Diferenciais que devem ser destacados visualmente:
+	•	Equipamentos modernos de ponta
+	•	Atendimento rápido (equipe numerosa)
+	•	Uma das poucas clínicas na cidade com esses exames
+	•	Alta taxa de indicação
+
+Objetivos do site:
+	•	Transmitir confiança, tranquilidade e segurança
+	•	Priorizar contato via WhatsApp (botão flutuante visível em todas as páginas)
+	•	Facilitar agendamento e acesso a resultados (login simples estilo Diagna: CPF + data de nascimento)
+	•	Ter duas áreas distintas e bem sinalizadas: pacientes e dentistas
+
+Estrutura de navegação (menu principal): Home, Serviços, Como Funciona, Área do Dentista, Resultados, Contato
+
+Páginas e conteúdo (detalhar copy, CTAs e estruturas):
+	1.	Home
+	•	Hero: frase de impacto “Diagnóstico preciso, rápido e sem complicações” (subtexto curto reforçando segurança)
+	•	CTA primária: Agende pelo WhatsApp agora (botão grande)
+	•	Bloco de diferenciais em ícones (equipamentos, rapidez, exclusividade, indicação)
+	•	Depoimento curto (se houver)
+	•	Seção “Sou dentista” com CTA: Sou dentista — quero encaminhar pacientes
+	2.	Serviços (versão paciente)
+	•	Lista de serviços com ícone + título simples + 1 frase explicativa sem jargões. Ex.:
+	•	Tomografia: “Veja seu dente por dentro, sem dor, em poucos minutos.”
+	•	Radiografia: “Exames rápidos e seguros para diagnóstico preciso.”
+	3.	Como Funciona
+	•	Passo a passo visual: Agende → Compareça → Realize o exame → Receba resultados
+	•	Atenção para tempo médio do exame e instruções simples para pacientes
+	4.	Área do Dentista
+	•	Login (CRM + senha) ou seção técnica pública com:
+	•	Fotos e especificações técnicas dos equipamentos (ficha técnica)
+	•	Protocolos de imagem e preparo do paciente
+	•	Modelos para download: requisição, laudo, autorizações
+	•	Botão de contato direto via WhatsApp exclusivo para dentistas
+	5.	Resultados
+	•	Página estilo Diagna: campos CPF + data de nascimento e botão “Acessar meus resultados”
+	•	Instrução curta sobre privacidade e como receber o laudo por e-mail/WhatsApp
+	6.	Contato
+	•	Botão de WhatsApp sempre em destaque (verde), telefone, e-mail
+	•	Mapa do Google integrado (localização da clínica)
+	•	Formulário opcional (nome, telefone, motivo do contato — opcional)
+	7.	Depoimentos
+	•	Seção com 3–5 depoimentos curtos (nome + função/opinião) para reforçar confiança
+
+CTAs obrigatórios (visíveis em várias seções e com prioridade mobile):
+	•	“Agende pelo WhatsApp agora” (CTA primária)
+	•	“Sou dentista — quero encaminhar pacientes”
+	•	“Já fez seu exame? Acesse seus resultados aqui”
+
+Design e UX:
+	•	Paleta: azul escuro (principal), branco e acentos sóbrios (cinza claro)
+	•	Tipografia sóbria e legível; hierarquia clara para leitura em mobile
+	•	Botão flutuante de WhatsApp em todas as páginas (sempre acessível)
+	•	Área de resultados com fluxo simples e rápido; evitar captchas desnecessários
+	•	Performance e SEO: imagens otimizadas, carregamento rápido, meta tags básicas já prontas
+
+Entrega esperada:
+	•	Fornecer HTML/CSS responsivo completo (ou arquivos prontos para a plataforma solicitada) + copy pronta para todas as páginas e seções (textos prontos para publicação).
+	•	Incluir marcação semântica, classes CSS claras, e instruções para integração do WhatsApp, Google Maps e sistema de resultados (CPF + data de nascimento).
+	•	Sugerir microcopy para mensagens de confirmação/erros no formulário e na área de resultados.
